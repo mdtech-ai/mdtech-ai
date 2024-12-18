@@ -31,12 +31,3 @@ Passionné par la transformation des données en informations exploitables et pa
 ## 📈 **Statistiques GitHub**  
 
 ![Statistiques GitHub de Mamadou](https://github-readme-stats.vercel.app/api?username=mdtech-ai&show_icons=true&theme=radical)   
-
----
-
-## 🤝 **Contactez-moi**  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mamadou-diallo)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/mdtech-ai)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mamadoudiallode1@gmail.com)  
-
