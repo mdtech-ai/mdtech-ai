@@ -5,7 +5,7 @@
 
 Passionné par la transformation des données en informations exploitables et par le développement de solutions intelligentes. Je me suis orienté vers les domaines captivants de l'ingénierie des données et de l'Intelligence Artificielle. Actuellement en Master en Intelligence Artificielle et Big Data, je suis motivé à collaborer sur des projets à fort impact.  
 
-🔧 **Tech Stack**   
+💻 **Tech Stack**   
 
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
