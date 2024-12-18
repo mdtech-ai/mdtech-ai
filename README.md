@@ -3,7 +3,7 @@
 🎓 **Étudiant en Master Intelligence Artificielle et Big Data**  
 💻 **Ingénieur Data** | **Analyste Data** | **Ingénieur IA**   
 
-Passionné par la transformation des données en informations exploitables et par le développement de solutions intelligentes, je dispose d'une solide expérience en développement web et mobile. Je me suis orienté vers les domaines captivants de l'ingénierie des données et de l'IA. Actuellement en Master en Intelligence Artificielle et Big Data, je suis motivé à collaborer sur des projets à fort impact.  
+Passionné par la transformation des données en informations exploitables et par le développement de solutions intelligentes. Je me suis orienté vers les domaines captivants de l'ingénierie des données et de l'Intelligence Artificielle. Actuellement en Master en Intelligence Artificielle et Big Data, je suis motivé à collaborer sur des projets à fort impact.  
 
 🔧 **Tech Stack**   
 
