@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Mamadou Diallo !  
 
-🎓 **Étudiant en Master Intelligence Artificielle et Big Data**  
-👨‍🎓 **Ingénieur Data** | **Analyste Data** | **Ingénieur IA**   
+🎓 **Ingénieur en Intelligence Artificielle et Big Data**  
+👨‍🎓 **IA** | **Data Engineering**    
 
 Passionné par la transformation des données en informations exploitables et par le développement de solutions intelligentes. Je me suis orienté vers les domaines captivants de l'ingénierie des données et de l'Intelligence Artificielle. Actuellement en Master en Intelligence Artificielle et Big Data, je suis motivé à collaborer sur des projets à fort impact.  
 
