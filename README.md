@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=700&lines=Ingénieur+IA+%26+Big+Data;Construction+de+pipelines+de+données+de+bout+en+bout;Transformer+la+donnée+brute+en+décisions+stratégiques;Conception+et+déploiement+de+systèmes+IA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&lines=Ingénieur+IA+%26+Big+Data;Conception+de+pipelines+de+données+de+bout+en+bout;Transformer+la+donnée+brute+en+décisions+stratégiques;Conception+et+déploiement+de+systèmes+IA)](https://git.io/typing-svg)
  
 <br/>
 
